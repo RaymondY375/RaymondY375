@@ -1,7 +1,9 @@
 ## Hi 👋 I am Raymond! 
+
 I am a passionate and experienced backend developer with 8 years of industry expertise, including 3.5 years in the insurance sector. 
 Former application specialist at [Bupa](https://www.bupa.com.hk/), leading the enhancement of their corporate website for insurance product purchases. 
 Skilled in ASP.NET, C#, MSSQL, AngularJS, and Microsoft D365 CRM & Sales module.
+
 
 - 🌐 Visit my [portfolio website](about:blank) for more information and to get in touch.
 
