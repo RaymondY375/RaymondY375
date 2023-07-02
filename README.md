@@ -5,7 +5,7 @@ Former application specialist at [Bupa](https://www.bupa.com.hk/), leading the e
 Skilled in ASP.NET, C#, MSSQL, AngularJS, and Microsoft D365 CRM & Sales module.
 
 
-- 🌐 Visit my [portfolio website](about:blank) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://raymondy375.github.io/) for more information and to get in touch.
 
 - 📫 How to reach me **raymondyuen.workplace@gmail.com**
 
